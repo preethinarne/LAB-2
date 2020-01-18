@@ -1,9 +1,0 @@
-Alekya Lokasani
-# Count Odd Numbers below n
-function oddCount(n){
-  console.log(n)
-  var result = 0
-  result = Math.floor(n/2)
-  return result
-}
-
